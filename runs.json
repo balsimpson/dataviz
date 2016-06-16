@@ -1,0 +1,1434 @@
+{
+  "ipl": [{
+    "Batsman": "Virat Kohli",
+    "Runs": "973",
+    "Average": "81.08",
+    "Highest": "113",
+    "Strikerate": "152.03",
+    "Boundaries": "83",
+    "Sixes": "38",
+    "Innings": "16"
+  }, {
+    "Batsman": "David Warner",
+    "Runs": "848",
+    "Average": "60.57",
+    "Highest": "93*",
+    "Strikerate": "151.42",
+    "Boundaries": "88",
+    "Sixes": "31",
+    "Innings": "17"
+  }, {
+    "Batsman": "AB de Villiers",
+    "Runs": "687",
+    "Average": "52.84",
+    "Highest": "129*",
+    "Strikerate": "168.79",
+    "Boundaries": "57",
+    "Sixes": "37",
+    "Innings": "16"
+  }, {
+    "Batsman": "Shikhar Dhawan",
+    "Runs": "501",
+    "Average": "38.53",
+    "Highest": "82*",
+    "Strikerate": "116.78",
+    "Boundaries": "51",
+    "Sixes": "8",
+    "Innings": "17"
+  }, {
+    "Batsman": "Gautam Gambhir",
+    "Runs": "501",
+    "Average": "38.53",
+    "Highest": "90*",
+    "Strikerate": "121.89",
+    "Boundaries": "54",
+    "Sixes": "6",
+    "Innings": "15"
+  }, {
+    "Batsman": "Rohit Sharma",
+    "Runs": "489",
+    "Average": "44.45",
+    "Highest": "85*",
+    "Strikerate": "132.88",
+    "Boundaries": "49",
+    "Sixes": "16",
+    "Innings": "14"
+  }, {
+    "Batsman": "Ajinkya Rahane",
+    "Runs": "480",
+    "Average": "43.63",
+    "Highest": "74",
+    "Strikerate": "126.64",
+    "Boundaries": "54",
+    "Sixes": "9",
+    "Innings": "14"
+  }, {
+    "Batsman": "Murali Vijay",
+    "Runs": "453",
+    "Average": "34.84",
+    "Highest": "89",
+    "Strikerate": "124.45",
+    "Boundaries": "50",
+    "Sixes": "10",
+    "Innings": "14"
+  }, {
+    "Batsman": "Quinton de Kock",
+    "Runs": "445",
+    "Average": "37.08",
+    "Highest": "108",
+    "Strikerate": "136.08",
+    "Boundaries": "52",
+    "Sixes": "13",
+    "Innings": "13"
+  }, {
+    "Batsman": "Suresh Raina",
+    "Runs": "399",
+    "Average": "28.50",
+    "Highest": "75",
+    "Strikerate": "127.88",
+    "Boundaries": "39",
+    "Sixes": "10",
+    "Innings": "15"
+  }, {
+    "Batsman": "Lokesh Rahul",
+    "Runs": "397",
+    "Average": "44.11",
+    "Highest": "68*",
+    "Strikerate": "146.49",
+    "Boundaries": "37",
+    "Sixes": "16",
+    "Innings": "12"
+  }, {
+    "Batsman": "Robin Uthappa",
+    "Runs": "394",
+    "Average": "26.26",
+    "Highest": "72",
+    "Strikerate": "136.33",
+    "Boundaries": "45",
+    "Sixes": "8",
+    "Innings": "15"
+  }, {
+    "Batsman": "Aaron Finch",
+    "Runs": "393",
+    "Average": "39.30",
+    "Highest": "74",
+    "Strikerate": "131.43",
+    "Boundaries": "45",
+    "Sixes": "11",
+    "Innings": "12"
+  }, {
+    "Batsman": "Yusuf Pathan",
+    "Runs": "361",
+    "Average": "72.20",
+    "Highest": "63*",
+    "Strikerate": "145.56",
+    "Boundaries": "33",
+    "Sixes": "13",
+    "Innings": "13"
+  }, {
+    "Batsman": "Karun Nair",
+    "Runs": "357",
+    "Average": "35.70",
+    "Highest": "83*",
+    "Strikerate": "120.20",
+    "Boundaries": "40",
+    "Sixes": "6",
+    "Innings": "12"
+  }, {
+    "Batsman": "Brendon McCullum",
+    "Runs": "354",
+    "Average": "22.12",
+    "Highest": "60",
+    "Strikerate": "135.11",
+    "Boundaries": "38",
+    "Sixes": "16",
+    "Innings": "16"
+  }, {
+    "Batsman": "Dinesh Karthik",
+    "Runs": "335",
+    "Average": "25.76",
+    "Highest": "53",
+    "Strikerate": "125.93",
+    "Boundaries": "38",
+    "Sixes": "3",
+    "Innings": "15"
+  }, {
+    "Batsman": "Ambati Rayudu",
+    "Runs": "334",
+    "Average": "30.36",
+    "Highest": "65",
+    "Strikerate": "120.14",
+    "Boundaries": "28",
+    "Sixes": "12",
+    "Innings": "12"
+  }, {
+    "Batsman": "Dwayne Smith",
+    "Runs": "324",
+    "Average": "29.45",
+    "Highest": "73",
+    "Strikerate": "146.60",
+    "Boundaries": "35",
+    "Sixes": "16",
+    "Innings": "12"
+  }, {
+    "Batsman": "Sanju Samson",
+    "Runs": "291",
+    "Average": "26.45",
+    "Highest": "60",
+    "Strikerate": "112.35",
+    "Boundaries": "20",
+    "Sixes": "8",
+    "Innings": "14"
+  }, {
+    "Batsman": "MS Dhoni",
+    "Runs": "284",
+    "Average": "40.57",
+    "Highest": "64*",
+    "Strikerate": "135.23",
+    "Boundaries": "18",
+    "Sixes": "14",
+    "Innings": "12"
+  }, {
+    "Batsman": "Steve Smith",
+    "Runs": "270",
+    "Average": "45.00",
+    "Highest": "101",
+    "Strikerate": "153.40",
+    "Boundaries": "27",
+    "Sixes": "8",
+    "Innings": "7"
+  }, {
+    "Batsman": "Wriddhiman Saha",
+    "Runs": "270",
+    "Average": "24.54",
+    "Highest": "56",
+    "Strikerate": "127.35",
+    "Boundaries": "29",
+    "Sixes": "1",
+    "Innings": "12"
+  }, {
+    "Batsman": "Jos Buttler",
+    "Runs": "255",
+    "Average": "23.18",
+    "Highest": "41",
+    "Strikerate": "138.58",
+    "Boundaries": "23",
+    "Sixes": "11",
+    "Innings": "14"
+  }, {
+    "Batsman": "Manish Pandey",
+    "Runs": "248",
+    "Average": "31.00",
+    "Highest": "52",
+    "Strikerate": "135.51",
+    "Boundaries": "17",
+    "Sixes": "9",
+    "Innings": "11"
+  }, {
+    "Batsman": "Krunal Pandya",
+    "Runs": "237",
+    "Average": "39.50",
+    "Highest": "86",
+    "Strikerate": "191.12",
+    "Boundaries": "22",
+    "Sixes": "13",
+    "Innings": "9"
+  }, {
+    "Batsman": "Yuvraj Singh",
+    "Runs": "236",
+    "Average": "26.22",
+    "Highest": "44",
+    "Strikerate": "131.84",
+    "Boundaries": "22",
+    "Sixes": "13",
+    "Innings": "10"
+  }, {
+    "Batsman": "Chris Gayle",
+    "Runs": "227",
+    "Average": "22.70",
+    "Highest": "76",
+    "Strikerate": "151.33",
+    "Boundaries": "17",
+    "Sixes": "21",
+    "Innings": "10"
+  }, {
+    "Batsman": "Kieron Pollard",
+    "Runs": "207",
+    "Average": "25.87",
+    "Highest": "51*",
+    "Strikerate": "143.75",
+    "Boundaries": "11",
+    "Sixes": "16",
+    "Innings": "12"
+  }, {
+    "Batsman": "Francois du Plessis",
+    "Runs": "206",
+    "Average": "34.33",
+    "Highest": "69",
+    "Strikerate": "127.16",
+    "Boundaries": "17",
+    "Sixes": "9",
+    "Innings": "6"
+  }, {
+    "Batsman": "Rishabh Pant",
+    "Runs": "198",
+    "Average": "24.75",
+    "Highest": "69",
+    "Strikerate": "130.26",
+    "Boundaries": "19",
+    "Sixes": "6",
+    "Innings": "10"
+  }, {
+    "Batsman": "Chris Morris",
+    "Runs": "195",
+    "Average": "65.00",
+    "Highest": "82*",
+    "Strikerate": "178.89",
+    "Boundaries": "15",
+    "Sixes": "12",
+    "Innings": "7"
+  }, {
+    "Batsman": "Ravindra Jadeja",
+    "Runs": "191",
+    "Average": "21.22",
+    "Highest": "36*",
+    "Strikerate": "107.30",
+    "Boundaries": "14",
+    "Sixes": "4",
+    "Innings": "15"
+  }, {
+    "Batsman": "JP Duminy",
+    "Runs": "191",
+    "Average": "38.20",
+    "Highest": "49*",
+    "Strikerate": "122.43",
+    "Boundaries": "13",
+    "Sixes": "3",
+    "Innings": "8"
+  }, {
+    "Batsman": "Andre Russell",
+    "Runs": "188",
+    "Average": "26.85",
+    "Highest": "39*",
+    "Strikerate": "164.91",
+    "Boundaries": "10",
+    "Sixes": "15",
+    "Innings": "8"
+  }, {
+    "Batsman": "Suryakumar Yadav",
+    "Runs": "186",
+    "Average": "26.57",
+    "Highest": "60",
+    "Strikerate": "130.06",
+    "Boundaries": "19",
+    "Sixes": "5",
+    "Innings": "11"
+  }, {
+    "Batsman": "Moises Henriques",
+    "Runs": "182",
+    "Average": "15.16",
+    "Highest": "31*",
+    "Strikerate": "115.18",
+    "Boundaries": "15",
+    "Sixes": "6",
+    "Innings": "15"
+  }, {
+    "Batsman": "Shane Watson",
+    "Runs": "179",
+    "Average": "13.76",
+    "Highest": "36",
+    "Strikerate": "133.58",
+    "Boundaries": "14",
+    "Sixes": "12",
+    "Innings": "15"
+  }, {
+    "Batsman": "Glenn Maxwell",
+    "Runs": "179",
+    "Average": "19.88",
+    "Highest": "68",
+    "Strikerate": "144.35",
+    "Boundaries": "14",
+    "Sixes": "8",
+    "Innings": "11"
+  }, {
+    "Batsman": "Parthiv Patel",
+    "Runs": "177",
+    "Average": "17.70",
+    "Highest": "81",
+    "Strikerate": "116.44",
+    "Boundaries": "23",
+    "Sixes": "4",
+    "Innings": "10"
+  }, {
+    "Batsman": "Saurabh Tiwary",
+    "Runs": "170",
+    "Average": "24.28",
+    "Highest": "57",
+    "Strikerate": "120.56",
+    "Boundaries": "17",
+    "Sixes": "4",
+    "Innings": "7"
+  }, {
+    "Batsman": "David Miller",
+    "Runs": "161",
+    "Average": "16.10",
+    "Highest": "31",
+    "Strikerate": "122.90",
+    "Boundaries": "11",
+    "Sixes": "4",
+    "Innings": "13"
+  }, {
+    "Batsman": "Manan Vohra",
+    "Runs": "161",
+    "Average": "23.00",
+    "Highest": "51",
+    "Strikerate": "122.90",
+    "Boundaries": "19",
+    "Sixes": "3",
+    "Innings": "7"
+  }, {
+    "Batsman": "Shaun Marsh",
+    "Runs": "159",
+    "Average": "31.80",
+    "Highest": "56*",
+    "Strikerate": "118.65",
+    "Boundaries": "13",
+    "Sixes": "4",
+    "Innings": "6"
+  }, {
+    "Batsman": "Hashim Amla",
+    "Runs": "157",
+    "Average": "26.16",
+    "Highest": "96",
+    "Strikerate": "131.93",
+    "Boundaries": "20",
+    "Sixes": "4",
+    "Innings": "6"
+  }, {
+    "Batsman": "Thisara Perera",
+    "Runs": "150",
+    "Average": "21.42",
+    "Highest": "34",
+    "Strikerate": "161.29",
+    "Boundaries": "7",
+    "Sixes": "11",
+    "Innings": "10"
+  }, {
+    "Batsman": "Marcus Stoinis",
+    "Runs": "146",
+    "Average": "36.50",
+    "Highest": "52",
+    "Strikerate": "135.18",
+    "Boundaries": "13",
+    "Sixes": "4",
+    "Innings": "5"
+  }, {
+    "Batsman": "Deepak Hooda",
+    "Runs": "144",
+    "Average": "10.28",
+    "Highest": "34",
+    "Strikerate": "119.00",
+    "Boundaries": "9",
+    "Sixes": "5",
+    "Innings": "15"
+  }, {
+    "Batsman": "Naman Ojha",
+    "Runs": "136",
+    "Average": "13.60",
+    "Highest": "37",
+    "Strikerate": "98.55",
+    "Boundaries": "7",
+    "Sixes": "5",
+    "Innings": "13"
+  }, {
+    "Batsman": "Usman Khawaja",
+    "Runs": "127",
+    "Average": "21.16",
+    "Highest": "30",
+    "Strikerate": "127.00",
+    "Boundaries": "14",
+    "Sixes": "3",
+    "Innings": "6"
+  }, {
+    "Batsman": "Kane Williamson",
+    "Runs": "124",
+    "Average": "20.66",
+    "Highest": "50",
+    "Strikerate": "101.63",
+    "Boundaries": "14",
+    "Sixes": "0",
+    "Innings": "6"
+  }, {
+    "Batsman": "Eoin Morgan",
+    "Runs": "123",
+    "Average": "24.60",
+    "Highest": "51",
+    "Strikerate": "117.14",
+    "Boundaries": "8",
+    "Sixes": "4",
+    "Innings": "6"
+  }, {
+    "Batsman": "Sachin Baby",
+    "Runs": "119",
+    "Average": "23.80",
+    "Highest": "33",
+    "Strikerate": "150.63",
+    "Boundaries": "9",
+    "Sixes": "5",
+    "Innings": "6"
+  }, {
+    "Batsman": "Shakib Al Hasan",
+    "Runs": "114",
+    "Average": "22.80",
+    "Highest": "66*",
+    "Strikerate": "107.54",
+    "Boundaries": "7",
+    "Sixes": "5",
+    "Innings": "7"
+  }, {
+    "Batsman": "Gurkeerat Mann Singh",
+    "Runs": "113",
+    "Average": "22.60",
+    "Highest": "51",
+    "Strikerate": "131.39",
+    "Boundaries": "11",
+    "Sixes": "3",
+    "Innings": "6"
+  }, {
+    "Batsman": "Axar Patel",
+    "Runs": "111",
+    "Average": "15.85",
+    "Highest": "36*",
+    "Strikerate": "144.15",
+    "Boundaries": "4",
+    "Sixes": "8",
+    "Innings": "10"
+  }, {
+    "Batsman": "Nitish Rana",
+    "Runs": "104",
+    "Average": "34.66",
+    "Highest": "70",
+    "Strikerate": "138.66",
+    "Boundaries": "7",
+    "Sixes": "8",
+    "Innings": "3"
+  }, {
+    "Batsman": "Dwayne Bravo",
+    "Runs": "99",
+    "Average": "12.37",
+    "Highest": "22*",
+    "Strikerate": "120.73",
+    "Boundaries": "11",
+    "Sixes": "1",
+    "Innings": "13"
+  }, {
+    "Batsman": "Harbhajan Singh",
+    "Runs": "92",
+    "Average": "30.66",
+    "Highest": "45*",
+    "Strikerate": "109.52",
+    "Boundaries": "11",
+    "Sixes": "2",
+    "Innings": "7"
+  }, {
+    "Batsman": "Sam Billings",
+    "Runs": "88",
+    "Average": "22.00",
+    "Highest": "54",
+    "Strikerate": "137.50",
+    "Boundaries": "4",
+    "Sixes": "4",
+    "Innings": "4"
+  }, {
+    "Batsman": "George Bailey",
+    "Runs": "84",
+    "Average": "21.00",
+    "Highest": "34",
+    "Strikerate": "85.71",
+    "Boundaries": "9",
+    "Sixes": "2",
+    "Innings": "5"
+  }, {
+    "Batsman": "Carlos Brathwaite",
+    "Runs": "83",
+    "Average": "13.83",
+    "Highest": "34",
+    "Strikerate": "218.42",
+    "Boundaries": "6",
+    "Sixes": "8",
+    "Innings": "6"
+  }, {
+    "Batsman": "James Faulkner",
+    "Runs": "77",
+    "Average": "25.66",
+    "Highest": "32",
+    "Strikerate": "130.50",
+    "Boundaries": "7",
+    "Sixes": "0",
+    "Innings": "5"
+  }, {
+    "Batsman": "Kevin Pietersen",
+    "Runs": "73",
+    "Average": "36.50",
+    "Highest": "37",
+    "Strikerate": "119.67",
+    "Boundaries": "4",
+    "Sixes": "3",
+    "Innings": "4"
+  }, {
+    "Batsman": "Sarfaraz Khan",
+    "Runs": "66",
+    "Average": "33.00",
+    "Highest": "35*",
+    "Strikerate": "212.90",
+    "Boundaries": "7",
+    "Sixes": "4",
+    "Innings": "4"
+  }, {
+    "Batsman": "Ben Cutting",
+    "Runs": "65",
+    "Average": "32.50",
+    "Highest": "39*",
+    "Strikerate": "191.17",
+    "Boundaries": "4",
+    "Sixes": "6",
+    "Innings": "4"
+  }, {
+    "Batsman": "Stuart Binny",
+    "Runs": "63",
+    "Average": "21.00",
+    "Highest": "21",
+    "Strikerate": "161.53",
+    "Boundaries": "5",
+    "Sixes": "4",
+    "Innings": "6"
+  }, {
+    "Batsman": "Martin Guptill",
+    "Runs": "57",
+    "Average": "19.00",
+    "Highest": "48",
+    "Strikerate": "103.63",
+    "Boundaries": "3",
+    "Sixes": "3",
+    "Innings": "3"
+  }, {
+    "Batsman": "Pawan Negi",
+    "Runs": "57",
+    "Average": "28.50",
+    "Highest": "19*",
+    "Strikerate": "96.61",
+    "Boundaries": "2",
+    "Sixes": "3",
+    "Innings": "6"
+  }, {
+    "Batsman": "Travis Head",
+    "Runs": "54",
+    "Average": "27.00",
+    "Highest": "37",
+    "Strikerate": "135.00",
+    "Boundaries": "3",
+    "Sixes": "2",
+    "Innings": "3"
+  }, {
+    "Batsman": "Bipul Sharma",
+    "Runs": "51",
+    "Average": "25.50",
+    "Highest": "27*",
+    "Strikerate": "204.00",
+    "Boundaries": "1",
+    "Sixes": "5",
+    "Innings": "4"
+  }, {
+    "Batsman": "Ashish Reddy",
+    "Runs": "47",
+    "Average": "23.50",
+    "Highest": "32",
+    "Strikerate": "162.06",
+    "Boundaries": "2",
+    "Sixes": "4",
+    "Innings": "3"
+  }, {
+    "Batsman": "Hardik Pandya",
+    "Runs": "44",
+    "Average": "6.28",
+    "Highest": "9",
+    "Strikerate": "69.84",
+    "Boundaries": "4",
+    "Sixes": "0",
+    "Innings": "9"
+  }, {
+    "Batsman": "Bhuvneshwar Kumar",
+    "Runs": "43",
+    "Average": "7.16",
+    "Highest": "21",
+    "Strikerate": "159.25",
+    "Boundaries": "6",
+    "Sixes": "1",
+    "Innings": "8"
+  }, {
+    "Batsman": "Ishan Kishan",
+    "Runs": "42",
+    "Average": "8.40",
+    "Highest": "27",
+    "Strikerate": "102.43",
+    "Boundaries": "5",
+    "Sixes": "0",
+    "Innings": "5"
+  }, {
+    "Batsman": "Kedar Jadhav",
+    "Runs": "42",
+    "Average": "-",
+    "Highest": "25*",
+    "Strikerate": "131.25",
+    "Boundaries": "2",
+    "Sixes": "2",
+    "Innings": "3"
+  }, {
+    "Batsman": "Ravichandran Ashwin",
+    "Runs": "41",
+    "Average": "20.50",
+    "Highest": "29",
+    "Strikerate": "107.89",
+    "Boundaries": "3",
+    "Sixes": "1",
+    "Innings": "6"
+  }, {
+    "Batsman": "Iqbal Abdulla",
+    "Runs": "37",
+    "Average": "-",
+    "Highest": "33*",
+    "Strikerate": "137.03",
+    "Boundaries": "4",
+    "Sixes": "1",
+    "Innings": "2"
+  }, {
+    "Batsman": "Karn Sharma",
+    "Runs": "36",
+    "Average": "-",
+    "Highest": "26*",
+    "Strikerate": "120.00",
+    "Boundaries": "3",
+    "Sixes": "1",
+    "Innings": "3"
+  }, {
+    "Batsman": "Rajat Bhatia",
+    "Runs": "34",
+    "Average": "34.00",
+    "Highest": "21",
+    "Strikerate": "170.00",
+    "Boundaries": "1",
+    "Sixes": "2",
+    "Innings": "6"
+  }, {
+    "Batsman": "Mitchell McClenaghan",
+    "Runs": "34",
+    "Average": "11.33",
+    "Highest": "20",
+    "Strikerate": "147.82",
+    "Boundaries": "2",
+    "Sixes": "3",
+    "Innings": "5"
+  }, {
+    "Batsman": "Mohit Sharma",
+    "Runs": "32",
+    "Average": "8.00",
+    "Highest": "15",
+    "Strikerate": "123.07",
+    "Boundaries": "3",
+    "Sixes": "1",
+    "Innings": "6"
+  }, {
+    "Batsman": "Shreyas Iyer",
+    "Runs": "30",
+    "Average": "5.00",
+    "Highest": "19",
+    "Strikerate": "69.76",
+    "Boundaries": "2",
+    "Sixes": "1",
+    "Innings": "6"
+  }, {
+    "Batsman": "Colin Munro",
+    "Runs": "30",
+    "Average": "10.00",
+    "Highest": "16",
+    "Strikerate": "100.00",
+    "Boundaries": "3",
+    "Sixes": "0",
+    "Innings": "3"
+  }, {
+    "Batsman": "Tim Southee",
+    "Runs": "30",
+    "Average": "10.00",
+    "Highest": "25",
+    "Strikerate": "157.89",
+    "Boundaries": "1",
+    "Sixes": "2",
+    "Innings": "4"
+  }, {
+    "Batsman": "Praveen Kumar",
+    "Runs": "28",
+    "Average": "7.00",
+    "Highest": "15",
+    "Strikerate": "103.70",
+    "Boundaries": "4",
+    "Sixes": "0",
+    "Innings": "7"
+  }, {
+    "Batsman": "Mayank Agarwal",
+    "Runs": "27",
+    "Average": "9.00",
+    "Highest": "10",
+    "Strikerate": "108.00",
+    "Boundaries": "3",
+    "Sixes": "1",
+    "Innings": "3"
+  }, {
+    "Batsman": "Piyush Chawla",
+    "Runs": "27",
+    "Average": "9.00",
+    "Highest": "11",
+    "Strikerate": "103.84",
+    "Boundaries": "4",
+    "Sixes": "0",
+    "Innings": "3"
+  }, {
+    "Batsman": "Chris Lynn",
+    "Runs": "25",
+    "Average": "25.00",
+    "Highest": "15",
+    "Strikerate": "113.63",
+    "Boundaries": "0",
+    "Sixes": "1",
+    "Innings": "2"
+  }, {
+    "Batsman": "Eklavya Dwivedi",
+    "Runs": "24",
+    "Average": "12.00",
+    "Highest": "19",
+    "Strikerate": "171.42",
+    "Boundaries": "2",
+    "Sixes": "2",
+    "Innings": "2"
+  }, {
+    "Batsman": "Rajagopal Sathish",
+    "Runs": "24",
+    "Average": "8.00",
+    "Highest": "10",
+    "Strikerate": "100.00",
+    "Boundaries": "1",
+    "Sixes": "1",
+    "Innings": "3"
+  }, {
+    "Batsman": "Dhawal Kulkarni",
+    "Runs": "23",
+    "Average": "11.50",
+    "Highest": "6*",
+    "Strikerate": "153.33",
+    "Boundaries": "2",
+    "Sixes": "0",
+    "Innings": "5"
+  }, {
+    "Batsman": "Nikhil Naik",
+    "Runs": "23",
+    "Average": "11.50",
+    "Highest": "22",
+    "Strikerate": "74.19",
+    "Boundaries": "1",
+    "Sixes": "0",
+    "Innings": "2"
+  }, {
+    "Batsman": "Jason Holder",
+    "Runs": "22",
+    "Average": "5.50",
+    "Highest": "13",
+    "Strikerate": "115.78",
+    "Boundaries": "2",
+    "Sixes": "1",
+    "Innings": "4"
+  }, {
+    "Batsman": "Akshdeep Nath",
+    "Runs": "20",
+    "Average": "6.66",
+    "Highest": "12",
+    "Strikerate": "74.07",
+    "Boundaries": "1",
+    "Sixes": "0",
+    "Innings": "3"
+  }, {
+    "Batsman": "Pradeep Sahu",
+    "Runs": "19",
+    "Average": "19.00",
+    "Highest": "18*",
+    "Strikerate": "146.15",
+    "Boundaries": "1",
+    "Sixes": "1",
+    "Innings": "2"
+  }, {
+    "Batsman": "Albie Morkel",
+    "Runs": "16",
+    "Average": "16.00",
+    "Highest": "16",
+    "Strikerate": "177.77",
+    "Boundaries": "0",
+    "Sixes": "2",
+    "Innings": "1"
+  }, {
+    "Batsman": "Farhaan Behardien",
+    "Runs": "14",
+    "Average": "7.00",
+    "Highest": "9*",
+    "Strikerate": "107.69",
+    "Boundaries": "2",
+    "Sixes": "0",
+    "Innings": "3"
+  }, {
+    "Batsman": "Rishi Dhawan",
+    "Runs": "14",
+    "Average": "-",
+    "Highest": "11*",
+    "Strikerate": "233.33",
+    "Boundaries": "0",
+    "Sixes": "1",
+    "Innings": "2"
+  }, {
+    "Batsman": "KC Cariappa",
+    "Runs": "13",
+    "Average": "13.00",
+    "Highest": "12*",
+    "Strikerate": "118.18",
+    "Boundaries": "0",
+    "Sixes": "1",
+    "Innings": "2"
+  }, {
+    "Batsman": "Vinay Kumar",
+    "Runs": "13",
+    "Average": "13.00",
+    "Highest": "12",
+    "Strikerate": "108.33",
+    "Boundaries": "0",
+    "Sixes": "1",
+    "Innings": "2"
+  }, {
+    "Batsman": "Kyle Abbott",
+    "Runs": "13",
+    "Average": "13.00",
+    "Highest": "12*",
+    "Strikerate": "162.50",
+    "Boundaries": "0",
+    "Sixes": "1",
+    "Innings": "3"
+  }, {
+    "Batsman": "Irfan Pathan",
+    "Runs": "11",
+    "Average": "3.66",
+    "Highest": "7",
+    "Strikerate": "84.61",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "3"
+  }, {
+    "Batsman": "Parveez Rasool",
+    "Runs": "10",
+    "Average": "10.00",
+    "Highest": "10",
+    "Strikerate": "111.11",
+    "Boundaries": "1",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Umesh Yadav",
+    "Runs": "9",
+    "Average": "9.00",
+    "Highest": "7*",
+    "Strikerate": "180.00",
+    "Boundaries": "0",
+    "Sixes": "1",
+    "Innings": "2"
+  }, {
+    "Batsman": "Nathan Coulter-Nile",
+    "Runs": "9",
+    "Average": "-",
+    "Highest": "7*",
+    "Strikerate": "64.28",
+    "Boundaries": "1",
+    "Sixes": "0",
+    "Innings": "2"
+  }, {
+    "Batsman": "Jasprit Bumrah",
+    "Runs": "8",
+    "Average": "8.00",
+    "Highest": "6",
+    "Strikerate": "72.72",
+    "Boundaries": "1",
+    "Sixes": "0",
+    "Innings": "2"
+  }, {
+    "Batsman": "Aditya Tare",
+    "Runs": "8",
+    "Average": "4.00",
+    "Highest": "8",
+    "Strikerate": "53.33",
+    "Boundaries": "1",
+    "Sixes": "0",
+    "Innings": "2"
+  }, {
+    "Batsman": "Lendl Simmons",
+    "Runs": "8",
+    "Average": "8.00",
+    "Highest": "8",
+    "Strikerate": "100.00",
+    "Boundaries": "0",
+    "Sixes": "1",
+    "Innings": "1"
+  }, {
+    "Batsman": "Sandeep Sharma",
+    "Runs": "8",
+    "Average": "-",
+    "Highest": "5*",
+    "Strikerate": "88.88",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "4"
+  }, {
+    "Batsman": "Mitchell Marsh",
+    "Runs": "7",
+    "Average": "7.00",
+    "Highest": "7",
+    "Strikerate": "63.63",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Pravin Tambe",
+    "Runs": "7",
+    "Average": "-",
+    "Highest": "7*",
+    "Strikerate": "36.84",
+    "Boundaries": "1",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Sunil Narine",
+    "Runs": "7",
+    "Average": "7.00",
+    "Highest": "4",
+    "Strikerate": "53.84",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "4"
+  }, {
+    "Batsman": "Zaheer Khan",
+    "Runs": "6",
+    "Average": "3.00",
+    "Highest": "4",
+    "Strikerate": "46.15",
+    "Boundaries": "1",
+    "Sixes": "0",
+    "Innings": "2"
+  }, {
+    "Batsman": "Peter Handscomb",
+    "Runs": "6",
+    "Average": "6.00",
+    "Highest": "6",
+    "Strikerate": "50.00",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Jayant Yadav",
+    "Runs": "6",
+    "Average": "3.00",
+    "Highest": "5",
+    "Strikerate": "60.00",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "2"
+  }, {
+    "Batsman": "David Wiese",
+    "Runs": "5",
+    "Average": "-",
+    "Highest": "5*",
+    "Strikerate": "125.00",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Imran Tahir",
+    "Runs": "5",
+    "Average": "5.00",
+    "Highest": "5",
+    "Strikerate": "71.42",
+    "Boundaries": "1",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Mitchell Johnson",
+    "Runs": "5",
+    "Average": "2.50",
+    "Highest": "4",
+    "Strikerate": "35.71",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "3"
+  }, {
+    "Batsman": "Amit Mishra",
+    "Runs": "4",
+    "Average": "2.00",
+    "Highest": "3",
+    "Strikerate": "28.57",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "2"
+  }, {
+    "Batsman": "Barinder Sran",
+    "Runs": "4",
+    "Average": "-",
+    "Highest": "2*",
+    "Strikerate": "100.00",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "4"
+  }, {
+    "Batsman": "Chris Jordan",
+    "Runs": "3",
+    "Average": "3.00",
+    "Highest": "3",
+    "Strikerate": "75.00",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Ankit Sharma",
+    "Runs": "3",
+    "Average": "-",
+    "Highest": "3*",
+    "Strikerate": "100.00",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Shreyas Gopal",
+    "Runs": "2",
+    "Average": "2.00",
+    "Highest": "2",
+    "Strikerate": "12.50",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Mohammed Shami",
+    "Runs": "2",
+    "Average": "-",
+    "Highest": "2*",
+    "Strikerate": "50.00",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "2"
+  }, {
+    "Batsman": "Shadab Jakati",
+    "Runs": "1",
+    "Average": "-",
+    "Highest": "1*",
+    "Strikerate": "50.00",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Kane Richardson",
+    "Runs": "1",
+    "Average": "-",
+    "Highest": "1*",
+    "Strikerate": "100.00",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Shahbaz Nadeem",
+    "Runs": "1",
+    "Average": "-",
+    "Highest": "1*",
+    "Strikerate": "20.00",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Morne Morkel",
+    "Runs": "1",
+    "Average": "-",
+    "Highest": "1*",
+    "Strikerate": "100.00",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "2"
+  }, {
+    "Batsman": "Ashish Nehra",
+    "Runs": "1",
+    "Average": "-",
+    "Highest": "1*",
+    "Strikerate": "100.00",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "2"
+  }, {
+    "Batsman": "Dale Steyn",
+    "Runs": "1",
+    "Average": "1.00",
+    "Highest": "1",
+    "Strikerate": "50.00",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Scott Boland",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "Brad Hogg",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Jagadeesha Suchith",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "Mandeep Singh",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "Jaydev Unadkat",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "Mustafizur Rahman",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "Ashok Dinda",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "Kuldeep Yadav",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "Anureet Singh",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "Adam Zampa",
+    "Runs": "0",
+    "Average": "0.00",
+    "Highest": "0*",
+    "Strikerate": "0.00",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Sarabjit Ladda",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "Harshal Patel",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "John Hastings",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "RP Singh",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "Shivil Kaushik",
+    "Runs": "0",
+    "Average": "0.00",
+    "Highest": "0*",
+    "Strikerate": "0.00",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "2"
+  }, {
+    "Batsman": "Sreenath Aravind",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "Unmukt Chand",
+    "Runs": "0",
+    "Average": "0.00",
+    "Highest": "0*",
+    "Strikerate": "0.00",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Pradeep Sangwan",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "Deepak Chahar",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "Ankit Rajpoot",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "Yuzvendra Chahal",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "Tabraiz Shamsi",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "Swapnil Singh",
+    "Runs": "0",
+    "Average": "0.00",
+    "Highest": "0*",
+    "Strikerate": "0.00",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Adam Milne",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "Murugan Ashwin",
+    "Runs": "0",
+    "Average": "0.00",
+    "Highest": "0*",
+    "Strikerate": "0.00",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Ishant Sharma",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "1"
+  }, {
+    "Batsman": "Trent Boult",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "0"
+  }, {
+    "Batsman": "Varun Aaron",
+    "Runs": "0",
+    "Average": "-",
+    "Highest": "0*",
+    "Strikerate": "-",
+    "Boundaries": "0",
+    "Sixes": "0",
+    "Innings": "1"
+  }]
+}
