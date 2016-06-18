@@ -2,8 +2,12 @@ var circles = [];
 var data;
 var x;
 var y;
-var radius;
+var r;
 var ipl;
+
+// Declare and construct two objects (h1, h2) from the class HLine
+
+Balls b = new Balls(x, y, r);
 
 function preload() {
   data = loadJSON("runs.json");
@@ -22,14 +26,26 @@ function setup() {
     radius = map(ipl[i].Runs, 0, 1000, 5, 100);
     //map speed to strikerate
     var speed = map(ipl[i].Strikerate, 0, 300, 0.05, 0.1);
-    ellipse(random(width-20), random(height-20), radius, radius);
+    Balls b = new Balls(random(width-20), random(height-20), ipl[i].radius);
   }
 }
 
 function draw() {
   //background(120);
-    //fill(120);
+  //fill(120);
+  b.update();
+}
 
-    x = x + speed;
-    y = y + speed;
+class Balls {
+  var x,y,r;
+  Balls (x, y, r) {
+    x = random(width);
+    y = random(height);
+    r = random(10,20);
+  }
+
+  void update() {
+    ellipse(x,y,r,r);
+    //x += 0.1;
+  }
 }
