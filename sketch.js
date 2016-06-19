@@ -1,11 +1,16 @@
+var num = 20;
 var ball = [];
 
 function setup() {
   createCanvas(480, 120);
   background(204);
   // Create object and pass in parameters
-  for (var i = 0; i < 10; i++) {
-    ball[i] = new Balls(random(width), random(height), 20);
+  for (var i = 0; i < num; i++) {
+    var x = random(width);
+    var y = random(height);
+    var r = i + 2;
+
+    ball[i] = new Balls(random(width), random(height), r);
   }
 }
 
