@@ -1,6 +1,10 @@
 var num = 20;
 var ball = [];
 
+function preload() {
+  data = loadJSON("runs.json");
+}
+
 function setup() {
   createCanvas(480, 120);
   background(204);
