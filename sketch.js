@@ -9,8 +9,9 @@ function setup() {
     var x = random(width);
     var y = random(height);
     var r = i + 2;
+    var speed = random(0.5, 0.9);
 
-    ball[i] = new Balls(random(width), random(height), r);
+    ball[i] = new Balls(random(width), random(height), r, speed);
   }
 }
 
@@ -22,11 +23,11 @@ function draw() {
   }
 }
 
-function Balls(tempX, tempY, tempDiameter) {
+function Balls(tempX, tempY, tempDiameter, tempS) {
   this.x = tempX;
   this.y = tempY;
   this.diameter = tempDiameter;
-  this.speed = 5;
+  this.speed = tempS;
 
   this.move = function() {
     this.x += random(-this.speed, this.speed);
@@ -41,9 +42,7 @@ function Balls(tempX, tempY, tempDiameter) {
     if (this.x > width || this.x < 1.0) {
       this.x = random(width);
       this.y = random(height);
-    }
-
-    else if (this.y > height || this.y < 1.0) {
+    } else if (this.y > height || this.y < 1.0) {
       this.x = random(width);
       this.y = random(height);
     }
