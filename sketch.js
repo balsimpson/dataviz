@@ -8,6 +8,11 @@ function preload() {
 function setup() {
   createCanvas(480, 120);
   background(204);
+  var ipl = data.ipl;
+  for (var i = 0; i < ipl.length; i++) {
+
+
+}
   // Create object and pass in parameters
   for (var i = 0; i < num; i++) {
     var x = random(width);
