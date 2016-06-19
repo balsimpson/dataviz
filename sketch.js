@@ -10,8 +10,7 @@ function setup() {
   background(204);
   var ipl = data.ipl;
   for (var i = 0; i < ipl.length; i++) {
-
-
+var total = ipl[i].Runs;
 }
   // Create object and pass in parameters
   for (var i = 0; i < num; i++) {
