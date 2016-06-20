@@ -10,14 +10,12 @@ function setup() {
   background(204);
   var ipl = data.ipl;
   for (var i = 0; i < ipl.length; i++) {
-var total = ipl[i].Runs;
-}
-  // Create object and pass in parameters
-  for (var i = 0; i < num; i++) {
+    var total = ipl[i].Runs;
+    var rate = ipl[i].Strikerate;
     var x = random(width);
     var y = random(height);
-    var r = i + 2;
-    var speed = random(0.5, 0.9);
+    var r = map(total, 0, 1000, 0, 50);
+    var speed = map(rate, 0.0, 400.00, 0.0005, 3);
 
     ball[i] = new Balls(random(width), random(height), r, speed);
   }
@@ -29,6 +27,10 @@ function draw() {
     ball[i].display();
     ball[i].check();
   }
+}
+
+function mousePressed() {
+  
 }
 
 function Balls(tempX, tempY, tempDiameter, tempS) {
