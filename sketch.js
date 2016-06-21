@@ -7,7 +7,7 @@ function preload() {
 
 function setup() {
   createCanvas(480, 120);
-  //background(204);
+  background(204);
   var ipl = data.ipl;
   for (var i = 0; i < ipl.length; i++) {
     //assign variables
@@ -52,11 +52,11 @@ function Balls(tempX, tempY, tempDiameter, tempS, tempB, tempR, tempC) {
   };
 
   this.display = function() {
-    background(100);
-noStroke();
+    //background(100);
+//noStroke();
 fill(255,200,0,this.look);
     ellipse(this.x, this.y, this.diameter, this.diameter);
-    if (this.diameter > 30) {
+    if (this.diameter > 10) {
        fill(255,0,0,this.look);
        //fill(this.look,this.look,this.look,100);
        ellipse(this.x, this.y, this.diameter, this.diameter);
