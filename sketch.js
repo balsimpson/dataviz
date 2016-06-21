@@ -7,7 +7,7 @@ function preload() {
 
 function setup() {
   createCanvas(480, 120);
-  background(204);
+  //background(204);
   var ipl = data.ipl;
   for (var i = 0; i < ipl.length; i++) {
     //assign variables
@@ -18,15 +18,16 @@ function setup() {
     var x = -30;
     var y = random(height);
     var r = map(total, 0, 1000, 0, 50);
-    var speed = map(rate, 0.0, 200.00, 0.0005, 1);
-    var look = map(rate, 0.0, 250, 0, 255);
+    var speed = map(ipl[i].Strikerate, 0.0, 200.00, 0.0005, 1);
+    var look = map(rate, 0.0, 250.00, 0, 255);
     //construct the ball
     ball[i] = new Balls(x, y, r, speed, batsman, rate, look);
   }
 }
 
 function draw() {
-  background(60);
+  //background(0);
+  //noStroke();
   for (var i = 0; i < ball.length; i++) {
     ball[i].move();
     ball[i].display();
@@ -51,7 +52,9 @@ function Balls(tempX, tempY, tempDiameter, tempS, tempB, tempR, tempC) {
   };
 
   this.display = function() {
-    fill(255,200,0,this.look);
+    background(100);
+noStroke();
+fill(255,200,0,this.look);
     ellipse(this.x, this.y, this.diameter, this.diameter);
     if (this.diameter > 30) {
        fill(255,0,0,this.look);
