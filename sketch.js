@@ -19,13 +19,14 @@ function setup() {
     var y = random(height);
     var r = map(total, 0, 1000, 0, 50);
     var speed = map(rate, 0.0, 200.00, 0.0005, 1);
+    var look = map(rate, 0.0, 250, 0, 255);
     //construct the ball
-    ball[i] = new Balls(x, y, r, speed, batsman, rate);
+    ball[i] = new Balls(x, y, r, speed, batsman, rate, look);
   }
 }
 
 function draw() {
-  background(204);
+  background(60);
   for (var i = 0; i < ball.length; i++) {
     ball[i].move();
     ball[i].display();
@@ -33,13 +34,14 @@ function draw() {
   }
 }
 
-function Balls(tempX, tempY, tempDiameter, tempS, tempB, tempR) {
+function Balls(tempX, tempY, tempDiameter, tempS, tempB, tempR, tempC) {
   this.x = tempX;
   this.y = tempY;
   this.diameter = tempDiameter;
   this.speed = tempS;
   this.batsman = tempB
   this.rate = tempR
+  this.look = tempC         //setcolor
 
   this.move = function() {
     // this.x += random(-this.speed, this.speed);
@@ -49,21 +51,26 @@ function Balls(tempX, tempY, tempDiameter, tempS, tempB, tempR) {
   };
 
   this.display = function() {
-    fill(255,255,0);
+    fill(255,200,0,this.look);
     ellipse(this.x, this.y, this.diameter, this.diameter);
     if (this.diameter > 30) {
-       fill(255,0,0);
+       fill(255,0,0,this.look);
+       //fill(this.look,this.look,this.look,100);
        ellipse(this.x, this.y, this.diameter, this.diameter);
-       fill(0,0,255);
-       text(this.batsman, this.x-10, this.y);
+       fill(this.look,this.look,this.look,100);
+       //fill(0,0,255,100);
+       //text(this.batsman, this.x-10, this.y);
        }
-       fill(0,0,255);
-       text(this.rate, this.x-10, this.y-10);
+       else {
+
+       }
+       //  fill(0,0,255,100);
+       //text(this.rate, this.x-10, this.y-10);
   };
 
   this.check = function() {
-    if (this.x > width || this.x < 1.0) {
-      this.x = random(-10,10);
+    if (this.x > width+10) {
+      this.x = -20;
       this.y = random(height);
     } else if (this.y > height || this.y < 1.0) {
       this.x = random(width);
