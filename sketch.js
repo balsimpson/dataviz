@@ -26,7 +26,7 @@ function setup() {
 }
 
 function draw() {
-  //background(0);
+  background(120);
   strokeWeight(0);
   for (var i = 0; i < ball.length; i++) {
     ball[i].move();
