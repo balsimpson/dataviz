@@ -1,4 +1,4 @@
-var num = 20;
+var num = 10;
 var ball = [];
 
 function preload() {
@@ -7,7 +7,7 @@ function preload() {
 
 function setup() {
   createCanvas(480, 120);
-  background(24);
+  //background(24);
   var ipl = data.ipl;
   for (var i = 0; i < ipl.length; i++) {
     //assign variables
@@ -26,7 +26,8 @@ function setup() {
 }
 
 function draw() {
-  background(120);
+  background(10);
+  text("test", 20, 30);
   strokeWeight(0);
   for (var i = 0; i < ball.length; i++) {
     ball[i].move();
@@ -54,7 +55,7 @@ function Balls(tempX, tempY, tempDiameter, tempS, tempB, tempR, tempC) {
   this.display = function() {
     //background(100);
 //noStroke();
-fill(255,200,0,this.look);
+fill(25,200,0,this.look);
     ellipse(this.x, this.y, this.diameter, this.diameter);
     if (this.diameter > 20) {
        fill(255,0,0,this.look);
