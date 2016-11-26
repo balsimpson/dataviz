@@ -7,7 +7,7 @@ function preload() {
 
 function setup() {
   createCanvas(480, 120);
-  background(24);
+  background(12);
   var ipl = data.ipl;
   for (var i = 0; i < ipl.length; i++) {
     //assign variables
@@ -19,7 +19,7 @@ function setup() {
     var y = random(height);
     var r = map(total, 0, 1000, 0, 50);
     var speed = map(ipl[i].Strikerate, 0.0, 200.00, 0.0005, 1);
-    var look = map(rate, 0.0, 250.00, 0, 255);
+    var look = map(rate, 0.0, 250.00, 0, 25);
     //construct the ball
     ball[i] = new Balls(x, y, r, speed, batsman, rate, look);
   }
